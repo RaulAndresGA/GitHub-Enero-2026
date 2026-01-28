@@ -1,7 +1,12 @@
 h1{
     color: orange;  
-
 }
+
 body{
     background-color: gray;
+}
+
+h2{
+    color: olive;
+    font-size: 20px;
 }
